@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentation sur l'IA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            background: #f1f1f1;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 15px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #4CAF50;
+        }
+        nav ul li a:hover {
+            text-decoration: underline;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        footer {
+            background: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Documentation sur l'IA et ses Impacts</h1>
+    </header>
+    
+    <nav>
+        <h2>Sommaire</h2>
+        <ul>
+            <li><a href="#statistiques">1. Statistiques sur le développement fœtal</a></li>
+            <li><a href="#impact-avortements">2. Impact des avortements dans le monde</a></li>
+            <li><a href="#consequences">3. Conséquences psychologiques et physiques</a></li>
+            <li><a href="#alternatives">4. Alternatives à l’avortement</a></li>
+            <li><a href="#valeur-vie">5. Valeur économique et démographique de la vie</a></li>
+            <li><a href="#stars">6. Des stars qui n’auraient pas vu le jour</a></li>
+        </ul>
+    </nav>
+    
+    <section id="statistiques">
+        <h2>1. Statistiques sur le développement fœtal</h2>
+        <p><strong>Activité cardiaque précoce :</strong> Le cœur d’un embryon commence à battre environ 18 à 22 jours après la conception (source : Cleveland Clinic). Cela illustre que des signes de vie humaine apparaissent très tôt.</p>
+        <p><strong>Système nerveux :</strong> Le cerveau commence à se former dès la troisième semaine de développement. À 8 semaines, les connexions nerveuses sont établies, et l'embryon peut réagir à des stimuli.</p>
+        <p><strong>Douleur fœtale :</strong> Des études suggèrent que le fœtus pourrait ressentir la douleur dès 12 à 24 semaines, selon les chercheurs (Royal College of Obstetricians and Gynaecologists, 2020).</p>
+    </section>
+
+    <section id="impact-avortements">
+        <h2>2. Impact des avortements dans le monde</h2>
+        <p><strong>Nombre annuel :</strong> Selon l’OMS, environ 73 millions d’avortements sont pratiqués chaque année dans le monde (rapport de 2021). Cela équivaut à environ 29% des grossesses totales.</p>
+        <p><strong>Ratio des naissances et avortements :</strong> En Russie, il y a presque autant d’avortements que de naissances, avec un ratio estimé à environ 43 avortements pour 57 naissances (UNICEF, 2020).</p>
+        <p><strong>Sex-ratio :</strong> Dans certains pays comme l’Inde ou la Chine, les avortements sélectifs provoquent un déséquilibre des sexes alarmant (UNFPA, 2021).</p>
+    </section>
+
+    <section id="consequences">
+        <h2>3. Conséquences psychologiques et physiques de l’avortement</h2>
+        <p><strong>Traumatisme psychologique :</strong> Une étude a montré que 74% des femmes ayant subi un avortement ressentent des sentiments de regret ou de culpabilité.</p>
+        <p><strong>Augmentation des risques :</strong> Risque accru de prématurité dans les grossesses ultérieures (25%-36%) et potentiels troubles anxieux ou dépressifs.</p>
+    </section>
+
+    <section id="alternatives">
+        <h2>4. Alternatives à l’avortement</h2>
+        <p><strong>Adoption :</strong> En France, il existe une forte demande d’adoption comparée au nombre d’enfants adoptables (Ministère des Affaires Sociales, 2022).</p>
+        <p><strong>Aide aux mères :</strong> Des initiatives offrent un soutien médical, psychologique et financier aux femmes en difficulté (Charlotte Lozier Institute, 2021).</p>
+    </section>
+
+    <section id="valeur-vie">
+        <h2>5. Valeur économique et démographique de la vie</h2>
+        <p><strong>Vie humaine et économie :</strong> Des pays comme le Japon souffrent d’une population vieillissante. La France doit réfléchir à son avenir démographique avec un taux de natalité en baisse (1,8 enfants/femme en 2023).</p>
+    </section>
+
+    <section id="stars">
+        <h2>6. Des stars qui n’auraient pas vu le jour</h2>
+        <p><strong>Justin Bieber :</strong> Sa mère a choisi de garder son bébé, et il est devenu une superstar.</p>
+        <p><strong>Céline Dion :</strong> Dernière d’une fratrie de 14 enfants, sa mère a choisi de la garder malgré les difficultés.</p>
+        <p><strong>Andrea Bocelli :</strong> Né malgré un handicap prédit, il est devenu un célèbre chanteur d’opéra.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Documentation sur l'IA et ses impacts</p>
+    </footer>
+</body>
+</html>
